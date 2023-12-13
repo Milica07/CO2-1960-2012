@@ -12,5 +12,5 @@ Rows: CO2(kt)
 
 Color: Abc Region
 
-Tableau link: https://public.tableau.com/views/CO21960-2012_17023828591220/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau link](https://public.tableau.com/views/CO21960-2012_17023828591220/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
